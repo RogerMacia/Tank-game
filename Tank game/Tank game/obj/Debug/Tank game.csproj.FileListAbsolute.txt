@@ -1,0 +1,20 @@
+C:\Users\roger\OneDrive\Escriptori\Escola\Universitat\3.1\Sistemes Operatius\Projecte\Tank game\Tank game\bin\Debug\Tank game.exe.config
+C:\Users\roger\OneDrive\Escriptori\Escola\Universitat\3.1\Sistemes Operatius\Projecte\Tank game\Tank game\bin\Debug\Tank game.exe
+C:\Users\roger\OneDrive\Escriptori\Escola\Universitat\3.1\Sistemes Operatius\Projecte\Tank game\Tank game\bin\Debug\Tank game.pdb
+C:\Users\roger\OneDrive\Escriptori\Escola\Universitat\3.1\Sistemes Operatius\Projecte\Tank game\Tank game\obj\Debug\Tank game.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Escriptori\Escola\Universitat\3.1\Sistemes Operatius\Projecte\Tank game\Tank game\obj\Debug\Tank_game.Form1.resources
+C:\Users\roger\OneDrive\Escriptori\Escola\Universitat\3.1\Sistemes Operatius\Projecte\Tank game\Tank game\obj\Debug\Tank_game.Properties.Resources.resources
+C:\Users\roger\OneDrive\Escriptori\Escola\Universitat\3.1\Sistemes Operatius\Projecte\Tank game\Tank game\obj\Debug\Tank game.csproj.GenerateResource.cache
+C:\Users\roger\OneDrive\Escriptori\Escola\Universitat\3.1\Sistemes Operatius\Projecte\Tank game\Tank game\obj\Debug\Tank game.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Escriptori\Escola\Universitat\3.1\Sistemes Operatius\Projecte\Tank game\Tank game\obj\Debug\Tank game.exe
+C:\Users\roger\OneDrive\Escriptori\Escola\Universitat\3.1\Sistemes Operatius\Projecte\Tank game\Tank game\obj\Debug\Tank game.pdb
+D:\Tank game\Tank game\bin\Debug\Tank game.exe.config
+D:\Tank game\Tank game\bin\Debug\Tank game.exe
+D:\Tank game\Tank game\bin\Debug\Tank game.pdb
+D:\Tank game\Tank game\obj\Debug\Tank game.csproj.AssemblyReference.cache
+D:\Tank game\Tank game\obj\Debug\Tank_game.Form1.resources
+D:\Tank game\Tank game\obj\Debug\Tank_game.Properties.Resources.resources
+D:\Tank game\Tank game\obj\Debug\Tank game.csproj.GenerateResource.cache
+D:\Tank game\Tank game\obj\Debug\Tank game.csproj.CoreCompileInputs.cache
+D:\Tank game\Tank game\obj\Debug\Tank game.exe
+D:\Tank game\Tank game\obj\Debug\Tank game.pdb
