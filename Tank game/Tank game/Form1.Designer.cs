@@ -32,6 +32,7 @@
             this.Peticion_txtBox = new System.Windows.Forms.TextBox();
             this.Connect_btn = new System.Windows.Forms.Button();
             this.Disconnect_btn = new System.Windows.Forms.Button();
+            this.Mapa = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Send_Btn
@@ -54,7 +55,7 @@
             // Connect_btn
             // 
             this.Connect_btn.Location = new System.Drawing.Point(89, 10);
-            this.Connect_btn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Connect_btn.Margin = new System.Windows.Forms.Padding(2);
             this.Connect_btn.Name = "Connect_btn";
             this.Connect_btn.Size = new System.Drawing.Size(56, 19);
             this.Connect_btn.TabIndex = 2;
@@ -72,17 +73,29 @@
             this.Disconnect_btn.UseVisualStyleBackColor = true;
             this.Disconnect_btn.Click += new System.EventHandler(this.Disconnect_btn_Click);
             // 
+            // Mapa
+            // 
+            this.Mapa.Location = new System.Drawing.Point(278, 103);
+            this.Mapa.Name = "Mapa";
+            this.Mapa.Size = new System.Drawing.Size(76, 28);
+            this.Mapa.TabIndex = 4;
+            this.Mapa.Text = "Mapa";
+            this.Mapa.UseVisualStyleBackColor = true;
+            this.Mapa.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.Mapa);
             this.Controls.Add(this.Disconnect_btn);
             this.Controls.Add(this.Connect_btn);
             this.Controls.Add(this.Peticion_txtBox);
             this.Controls.Add(this.Send_Btn);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -94,6 +107,7 @@
         private System.Windows.Forms.TextBox Peticion_txtBox;
         private System.Windows.Forms.Button Connect_btn;
         private System.Windows.Forms.Button Disconnect_btn;
+        private System.Windows.Forms.Button Mapa;
     }
 }
 

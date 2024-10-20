@@ -18,3 +18,14 @@ D:\Tank game\Tank game\obj\Debug\Tank game.csproj.GenerateResource.cache
 D:\Tank game\Tank game\obj\Debug\Tank game.csproj.CoreCompileInputs.cache
 D:\Tank game\Tank game\obj\Debug\Tank game.exe
 D:\Tank game\Tank game\obj\Debug\Tank game.pdb
+C:\Users\msi\Desktop\Uni\2024-2025 2B\SO\Proyecto\Tank-game\Tank game\Tank game\bin\Debug\Tank game.exe.config
+C:\Users\msi\Desktop\Uni\2024-2025 2B\SO\Proyecto\Tank-game\Tank game\Tank game\bin\Debug\Tank game.exe
+C:\Users\msi\Desktop\Uni\2024-2025 2B\SO\Proyecto\Tank-game\Tank game\Tank game\bin\Debug\Tank game.pdb
+C:\Users\msi\Desktop\Uni\2024-2025 2B\SO\Proyecto\Tank-game\Tank game\Tank game\obj\Debug\Tank game.csproj.AssemblyReference.cache
+C:\Users\msi\Desktop\Uni\2024-2025 2B\SO\Proyecto\Tank-game\Tank game\Tank game\obj\Debug\Tank game.csproj.SuggestedBindingRedirects.cache
+C:\Users\msi\Desktop\Uni\2024-2025 2B\SO\Proyecto\Tank-game\Tank game\Tank game\obj\Debug\Tank_game.Form1.resources
+C:\Users\msi\Desktop\Uni\2024-2025 2B\SO\Proyecto\Tank-game\Tank game\Tank game\obj\Debug\Tank_game.Properties.Resources.resources
+C:\Users\msi\Desktop\Uni\2024-2025 2B\SO\Proyecto\Tank-game\Tank game\Tank game\obj\Debug\Tank game.csproj.GenerateResource.cache
+C:\Users\msi\Desktop\Uni\2024-2025 2B\SO\Proyecto\Tank-game\Tank game\Tank game\obj\Debug\Tank game.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\Uni\2024-2025 2B\SO\Proyecto\Tank-game\Tank game\Tank game\obj\Debug\Tank game.exe
+C:\Users\msi\Desktop\Uni\2024-2025 2B\SO\Proyecto\Tank-game\Tank game\Tank game\obj\Debug\Tank game.pdb

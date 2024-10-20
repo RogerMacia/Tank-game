@@ -75,5 +75,18 @@ namespace Tank_game
             server.Shutdown(SocketShutdown.Both);
             server.Close();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            // Crea una instancia del formulario del mapa
+            Form2 formMapa = new Form2();
+            // Muestra el formulario del mapa
+            formMapa.Show();
+        }
     }
 }
