@@ -7,3 +7,5 @@ Versió 1:
 Versió 2:
 "Version 2 generada por Diego Fernandez Garcia" 
 "Version 2 verificada por Diego Fernandez Garcia" 
+"Version 3 comunicada por Roger Macià Vigatà"
+"URL: https://youtu.be/odOvFjyW8Tw"
